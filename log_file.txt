@@ -8,3 +8,8 @@ Student has ID : 2 is added
 Student has ID : 1 is added
 Student has ID : 2 is added
 Retrieved student with ID: 2
+Student has ID : 1 is added
+Student has ID : 2 is added
+Updated student with ID: 1
+Deleted student with ID: 1
+Retrieved student with ID: 2
