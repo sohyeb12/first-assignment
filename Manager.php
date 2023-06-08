@@ -80,7 +80,7 @@ class Manager
 
     public function updateStudent(Student $student)
     {
-        if (isset($this->stduents[$student->getId()])) {
+        if (isset($this->stduents[$student->getId()])){
             $this->stduents[$student->getId()] = $student;
             $this->log("Updated student with ID: " . $student->getID());
         }

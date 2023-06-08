@@ -17,8 +17,8 @@ $course_2 = new Course(2,"Math");
 $course_3 = new Course(3,"chemical");
 
 
-$student1 = new Student(1,"John Doe", "john@example.com",$course_1);
-$student2 = new Student(2,"Jane Smith", "jane@example.com",$course_2);
+$student1 = new Student(1,"Mohammed Safadi", "mohammed@gmail.com",$course_1);
+$student2 = new Student(2,"Banzema Kamal", "ejarwan@gmail.com",$course_2);
 $student3 = new Student(1,"Mohamemd Sabah", "sohyebjarwan@gmail.com",$course_3);
 
 $manager->addStudent($student1);
